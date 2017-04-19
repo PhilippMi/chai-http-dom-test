@@ -1,7 +1,7 @@
 {
   "name": "chai-test",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": false,
   "license": "MIT",  
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha 'test.js'"
